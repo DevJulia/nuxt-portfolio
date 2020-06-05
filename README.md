@@ -1,22 +1,13 @@
 # Portfolio made with Nuxt
 
-> Julia Nguyen&#39;s Portfolio
+> Julia Nguyen&#39;s Portfolio: can be found [here](https://dev-julia.com)
 
-## Build Setup
+## Description
 
-```bash
-# install dependencies
-$ npm install
+The website is a single page website which layout is a sidebar and an area to display the main content.
+The content will only show one component at a time and uses Vue.Js dynamic component `<component>`.
 
-# serve with hot reload at localhost:3000
-$ npm run dev
+## Tools
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+- The design was made on the fly thanks to Tailwind CSS.
+- Content provided by a headless CMS
